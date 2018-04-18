@@ -1,5 +1,8 @@
 'use strict';
 
+import Draggabilly from "packery";
+import Packery from "packery";
+
 (function (){
 
   var moduleDependencies = [
